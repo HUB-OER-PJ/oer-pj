@@ -1,2 +1,2 @@
 # oer-pj
-Repository for the OER-PJ interaktive material created with Lumi
+Repository for interactive material created with Lumi for the OER-PJ
